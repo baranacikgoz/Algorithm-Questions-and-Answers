@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {}
+    "c:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {
+    "c:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "c:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
         "projectName": "Fibonacci",
-        "projectPath": "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+        "projectPath": "c:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\baran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\obj\\",
+        "outputPath": "c:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Fibonacci\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baran\\AppData\\Roaming\\NuGet\\NuGet.Config",

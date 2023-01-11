@@ -1,3 +1,6 @@
 # Fibonacci
 
-[leetcode-question-link](https://leetcode.com/problems/fibonacci-number/)
+### [Question Link](https://leetcode.com/problems/fibonacci-number/)
+
+### Results
+![results](results.png)
