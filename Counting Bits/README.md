@@ -1,6 +1,6 @@
 # Counting Bits
 
-### [Problem Link](https://leetcode.com/problems/counting-bits/)
+## [Problem Link](https://leetcode.com/problems/counting-bits/)
 
 ### Way of Thinking
 ![img1](way-of-thinking1.png)  
