@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj",
+      "projectUniqueName": "C:\\Users\\baran\\Software\\Personal\\Algorithm-Questions-and-Answers\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj",
       "projectName": "Best Time to Buy and Sell Stock",
-      "projectPath": "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj",
+      "projectPath": "C:\\Users\\baran\\Software\\Personal\\Algorithm-Questions-and-Answers\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj",
       "packagesPath": "C:\\Users\\baran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baran\\Software\\Personal\\dynamic-programming-questions\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock\\obj\\",
+      "outputPath": "C:\\Users\\baran\\Software\\Personal\\Algorithm-Questions-and-Answers\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,7 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
